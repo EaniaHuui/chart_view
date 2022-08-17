@@ -11,8 +11,9 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-
 ![alt screenshot](https://github.com/EaniaHuui/chart_view/blob/main/screenshot/screenshot.gif)
+
+[Flutter自绘组件：扇形图](https://juejin.cn/post/7098140878945927175)
 
 ## Usage
 
